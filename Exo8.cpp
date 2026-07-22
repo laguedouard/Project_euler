@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+// returns the maximum product of 13 consecutive digits in the given 1000-digit number
+
 int main() {
     string number =
         "73167176531330624919225119674426574742355349194934"
